@@ -38,7 +38,7 @@
     "@types/xml2js": "^0.4.7",
     "convert-excel-to-json": "^1.7.0",
     "dayjs": "^1.10.3",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^3.1.1",
     "tslib": "~2.0.3",
     "xml2js": "^0.4.23"
   },
